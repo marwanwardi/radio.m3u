@@ -3,12 +3,23 @@
 #EXTINF:0,RMC
 http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3
 
-#EXTINF:0,Sawa
-http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-
 #EXTINF:0,Nojom fm
 http://ice33.securenetsystems.net/NOGOUM?type=.flv
 
+#EXTINF:0,bbc arabic
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup
 
 #EXTINF:0,Alaan fm
 http://audiostreaming.itworkscdn.com:9078/;*.nsv
+
+#EXTINF:0,Rotana amman
+http://188.247.86.67:8002/2
+
+#EXTINF:0,Sawa iraq
+http://mbn-channel-05.akacast.akamaistream.net/7/25/233454/v1/ibb.akacast.akamaistream.net/mbn_channel_05
+
+#EXTINF:0,Sawa lebanon
+http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_07
+
+#EXTINF:0,Sawa egypt
+http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
